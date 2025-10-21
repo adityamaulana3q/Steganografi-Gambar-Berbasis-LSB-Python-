@@ -1,13 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Oct 21 08:40:42 2025
-
 @author: adity
 """
 
 #!/usr/bin/env python3
 """
-steganografi_lsb_gui_full.py
 Aplikasi GUI Steganografi Gambar (LSB)
 Fitur:
  - Menyembunyikan teks ke dalam gambar (Encode)
@@ -189,3 +187,4 @@ text_hasil = tk.Text(frame2, height=5, width=55)
 text_hasil.pack(padx=10, pady=5)
 
 root.mainloop()
+
